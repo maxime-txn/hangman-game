@@ -27,3 +27,8 @@ hangman-game/
 ├── src/
 │   └── hangman.py
 └── README.md
+![Game Flow](src/hangman_game_flow.svg)
+
+
+
+
